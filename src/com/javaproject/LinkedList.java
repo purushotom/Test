@@ -49,11 +49,13 @@ public class LinkedList {
 		list.add(40);
 		list.add(50);
 		list.add(60);
-		
+		list.add(70);
+		list.add(80);
 		System.out.println("Orignal Linked List:");
 		list.printList();
 		//list.reverse();
 		System.out.println("Reverese Linked List:");
+		System.out.println("its fine ");
 		list.printList();
 	}
 	
